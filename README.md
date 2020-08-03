@@ -17,7 +17,7 @@ It is completely CRUD-ed and stores data in MongoDB
 
 6)<code>npm install cors</code> to make the API able to be read cross-domain
 
-# MongoDB Cheat Sheet
+# MongoDB Cheat Sheet - By [badtraversy](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6#file-mongodb_cheat_sheet-md)
 
 ## Show All Databases
 
